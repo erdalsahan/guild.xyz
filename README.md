@@ -1,5 +1,5 @@
 # Guild.xyz interface
-
+ 
 Open source interface for Guild.xyz -- a tool for platformless membership management.
 
 - Website: [guild.xyz](https://guild.xyz)
